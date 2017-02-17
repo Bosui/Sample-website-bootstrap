@@ -1,0 +1,96 @@
+.grey-background{
+  background-color: #ccc;
+}
+
+.pink{
+  background-color: #ff80ff;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+h1, h2 , h3, h4, h5, h6 {
+  font-family: 'Lobster';
+}
+
+.container-first{
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+}
+
+.text-center-h1{
+  text-align: center;
+}
+
+.row{
+  display: flex;
+  margin-bottom: 0px;
+}
+
+.main-content{
+padding: 0;
+margin-left: 30px;
+background-color: #fff
+}
+
+.plast-margin {
+  margin-bottom: 0;
+}
+
+.section-title{
+  margin: 0;
+}
+
+.container-fluid{
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+}
+
+.cnt-position{
+  /*flex: 2;*/
+}
+
+.section-title-margin{
+  color: #ff80ff;
+  padding: 0px;
+  display: flex;
+}
+.section-title-second{
+  color: #000;
+}
+
+.section-title-second, li{
+  color: #000;
+}
+
+.sidebar-right{
+  margin-right: 0px;
+  box-sizing:
+  flex: 1;
+}
+
+.form-control {
+  background-color: #fff;
+  padding: 0 0;
+}
+
+.btn-default{
+  background-color: #000;
+  color: #fff;
+}
+
+.space{
+  width: 20px;
+  padding: 0px;
+}
+
+.row1{
+  background-color: #ccc;
+  height: 15px;
+}
+
+.footer{
+  margin-top: 0px;
+  background-color: #fff;
+}
